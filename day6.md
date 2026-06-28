@@ -17,15 +17,6 @@
 
 ---
 
-## 📸 Screenshots
-### Resume Before Optimization
-![Original Resume](screenshots/original_resume.png)
-
-### Resume After Optimization
-![Optimized Resume](screenshots/optimized_resume.png)
-
----
-
 ## 🔑 Key Learnings
 - Learned how to structure a professional resume
 - Understood ATS (Applicant Tracking System) optimization
