@@ -1,7 +1,7 @@
 # Day 6 - Resume Documentation
 
 ## 📄 Original Resume
-- Attached file: `original_resume.pdf`
+- Attached file: `Resume -- Template-2.pdf'
 - This is my initial resume before optimization.
 
 ---
