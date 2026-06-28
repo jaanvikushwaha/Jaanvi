@@ -7,7 +7,7 @@
 ---
 
 ## ✨ Optimized Resume
-- Attached file: `optimized_resume.pdf`
+- Attached file: `Jaanvi_Kushwaha_Resume_ATS.pdf`
 - Improvements made:
   - Better formatting
   - Strong action verbs
