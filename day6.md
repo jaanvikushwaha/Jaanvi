@@ -1,7 +1,7 @@
 # Day 6 - Resume Documentation
 
 ## 📄 Original Resume
-- **Original Resume:** [Resume -- Template-2.pdf](Resume%20--%20Template-2.pdf)
+- **Original Resume:** [Resume -- Template-2.pdf](Resume%20-%20-%20Template-2.pdf)
 
 - This is my initial resume before optimization.
 
