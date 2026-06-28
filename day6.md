@@ -34,4 +34,4 @@
 ---
 
 ## 🚀 Outcome
-Now I have a professional, well-documented resume portfolio on GitHub.
+Now I have a professional, well-documented resume portfolio on GitHub
