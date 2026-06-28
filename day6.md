@@ -1,13 +1,13 @@
 # Day 6 - Resume Documentation
 
 ## 📄 Original Resume
-- Attached file: `Resume -- Template-2.pdf'
+- Attached file: 'Resume -- Template-2.pdf'
 - This is my initial resume before optimization.
 
 ---
 
 ## ✨ Optimized Resume
-- Attached file: `Jaanvi_Kushwaha_Resume_ATS.pdf'
+- Attached file: 'Jaanvi_Kushwaha_Resume_ATS.pdf'
 - Improvements made:
   - Better formatting
   - Strong action verbs
