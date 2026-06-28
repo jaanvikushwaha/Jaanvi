@@ -1,0 +1,37 @@
+# Day 6 - Resume Documentation
+
+## 📄 Original Resume
+- Attached file: `original_resume.pdf`
+- This is my initial resume before optimization.
+
+---
+
+## ✨ Optimized Resume
+- Attached file: `optimized_resume.pdf`
+- Improvements made:
+  - Better formatting
+  - Strong action verbs
+  - ATS-friendly structure
+  - Improved skills section
+
+---
+
+## 📸 Screenshots
+### Resume Before Optimization
+![Original Resume](screenshots/original_resume.png)
+
+### Resume After Optimization
+![Optimized Resume](screenshots/optimized_resume.png)
+
+---
+
+## 🔑 Key Learnings
+- Learned how to structure a professional resume
+- Understood ATS (Applicant Tracking System) optimization
+- Improved formatting and keyword usage
+- Learned how to document work on GitHub
+
+---
+
+## 🚀 Outcome
+Now I have a professional, well-documented resume portfolio on GitHub.
