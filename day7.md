@@ -45,8 +45,8 @@ Interview Preparation| Sonnet| High
 
 Personalized Claude Strategy
 
-"Claude Strategy" (claude_strategy.png)
-
+"Claude Strategy" (
+https://claude.ai/public/artifacts/dd8b3f69-7f41-41cd-ae92-a204f2fc3ef3 )
 Workflow Recommendation
 
 "Workflow" (workflow.png)
