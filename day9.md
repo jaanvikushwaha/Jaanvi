@@ -14,7 +14,7 @@ https://claude.ai/public/artifacts/e4a55633-8936-4d25-99bd-63b65fa16af9
 
 # Enhanced Nutriscope
 **Enhanced NutriScope Application:** 
-https://claude.ai/public/artifacts/e4a55633-8936-4d25-99bd-63b65fa16af9 
+https://claude.ai/public/artifacts/e4a55633-8936-4d25-99bd-63b65fa16af9
 
 ---
 
