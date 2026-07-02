@@ -7,8 +7,12 @@ NutriScope is a single-file HTML nutrition dashboard that helps users track dail
 
 ## 📂 Files Included
 
-- `NutriScope_MVP.html`
-- `NutriScope_Enhanced.html`
+# NutriScope MVP
+
+You can view and interact with the NutriScope MVP here:
+https://claude.ai/public/artifacts/e4a55633-8936-4d25-99bd-63b65fa16af9
+
+**Enhanced NutriScope Application:**  
 
 ---
 
